@@ -16,7 +16,7 @@ To run this notebook, you need the following:
 - Required libraries (install using the command below):
 
   ```bash
-  pip install pandas numpy matplotlib seaborn sklearn
+  pip install pandas numpy matplotlib seaborn scikit-learn
   ```
   
 ## Usage
